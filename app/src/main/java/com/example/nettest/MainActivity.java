@@ -15,6 +15,9 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import rx.functions.Action1;
 
+/**
+ * 参考链接：https://www.jianshu.com/p/811ba49d0748
+ */
 public class MainActivity extends AppCompatActivity {
 
     @BindView(R.id.main_tv)
